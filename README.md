@@ -86,7 +86,7 @@ install.packages("survey")
 - [Código clases](https://www.dropbox.com/s/aadn8bxg52k7o3t/codigo_en_vivo1.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1DjiBGWrG97MHoUhYIrrLye1mkZ7ywTv4hxJHSs78Dts/edit?usp=sharing)
 
-**Sesión 2: Explorar y transformar datos (7 de enero)**
+**Sesión 2: Explorar y transformar datos [1] (7 de enero)**
 
-- Código clases
-- Presentación
+- [Código clases](https://www.dropbox.com/s/99fgge25z26wcor/codigo_en_vivo2.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1GJte1ydCbeRgZXKQZc4enDiFANXdPDIcZKHNOKINNsM/edit?usp=sharing)
