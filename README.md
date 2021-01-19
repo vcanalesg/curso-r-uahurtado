@@ -97,6 +97,13 @@ install.packages("survey")
 - [Presentación](https://docs.google.com/presentation/d/1Q5vGumuRNWQmI1chkh1-hy8tCaE2HXoMDP-tOCLFAXE/edit?usp=sharing)
 
 **Sesión 4: Explorar y transformar datos [3] (14 de enero)**
+
 - [Código clases](https://www.dropbox.com/s/vzqsoj6s15jkay5/codigo_en_vivo4.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1RbIUnSmXZ337W1eXDGfLuihxw_ITBuW12EJQMX4Tgx8/edit?usp=sharing)
 - Descarga los datos de esta sesión [aquí](https://www.dropbox.com/s/b8jtec5q0dkfsk5/datos_sesion4.xlsx?dl=0)
+
+**Sesión 5: Visualización de datos con `ggplot2` (19 de enero)**
+
+- [Código clases](https://www.dropbox.com/s/b8v84yc2zkbktkn/codigo_en_vivo5.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1Ojp2tpzjY_GZLkuftEnEae0soPSzfGMMNZmp_vd328c/edit?usp=sharing)
+- [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0).
