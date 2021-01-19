@@ -106,4 +106,4 @@ install.packages("survey")
 
 - [Código clases](https://www.dropbox.com/s/b8v84yc2zkbktkn/codigo_en_vivo5.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1Ojp2tpzjY_GZLkuftEnEae0soPSzfGMMNZmp_vd328c/edit?usp=sharing)
-- [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0).
+- [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0). Te recomiendo que descargues el archivo y luego lo abras para que no tengas problemas en visualizar los link del archivo.
