@@ -107,3 +107,9 @@ install.packages("survey")
 - [Código clases](https://www.dropbox.com/s/b8v84yc2zkbktkn/codigo_en_vivo5.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1Ojp2tpzjY_GZLkuftEnEae0soPSzfGMMNZmp_vd328c/edit?usp=sharing)
 - [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0). Te recomiendo que descargues el archivo y luego lo abras para que no tengas problemas en visualizar los link del archivo.
+
+**Sesión 6: Reproducibilidad con R Markdown (21 de enero)**
+- [Paquetes a instalar](https://www.dropbox.com/s/phcpv06154q2w1b/codigo_en_vivo6.R?dl=0)
+- [Ejemplo documento en word](https://www.dropbox.com/s/ljvplhftw07tiwk/documento_word.Rmd?dl=0)
+- [Ejemplo documento en pdf](https://www.dropbox.com/s/o9acki55jux9ptp/documento_pdf.Rmd?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1HVZar20lPdyUyYOYiKDOmu2HhhGb_fTtUkhGeg_M1MM/edit?usp=sharing)
