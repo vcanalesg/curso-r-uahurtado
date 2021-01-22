@@ -109,8 +109,20 @@ install.packages("survey")
 - [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0). Te recomiendo que descargues el archivo y luego lo abras para que no tengas problemas en visualizar los link del archivo.
 
 **Sesión 6: Reproducibilidad con R Markdown (21 de enero)**
-- [Paquetes a instalar](https://www.dropbox.com/s/phcpv06154q2w1b/codigo_en_vivo6.R?dl=0)
-- [Ejemplo documento word](https://www.dropbox.com/s/ljvplhftw07tiwk/documento_word.Rmd?dl=0)
-- [Ejemplo documento pdf](https://www.dropbox.com/s/o9acki55jux9ptp/documento_pdf.Rmd?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1HVZar20lPdyUyYOYiKDOmu2HhhGb_fTtUkhGeg_M1MM/edit?usp=sharing)
-- [Resultado word](https://www.dropbox.com/s/e1ftteuj52q6hrt/documento_word.docx?dl=0)
+
+- [Paquetes a instalar](https://www.dropbox.com/s/phcpv06154q2w1b/codigo_en_vivo6.R?dl=0)  
+- [Ejemplo documento word](https://www.dropbox.com/s/ljvplhftw07tiwk/documento_word.Rmd?dl=0)  
+- [Ejemplo documento pdf](https://www.dropbox.com/s/o9acki55jux9ptp/documento_pdf.Rmd?dl=0)  
+- [Presentación](https://docs.google.com/presentation/d/1HVZar20lPdyUyYOYiKDOmu2HhhGb_fTtUkhGeg_M1MM/edit?usp=sharing)  
+- [Resultado word](https://www.dropbox.com/s/e1ftteuj52q6hrt/documento_word.docx?dl=0)  
+- [Resultado pdf](https://www.dropbox.com/s/yasgzqewxuyg15n/documento_pdf.pdf?dl=0)  
+
+Para descargar un diccionario en español en R Studio debes ir a:
+*Tools* -> *Global Options* -> *Spelling*. Ahí debes seleccionar como idioma principal Español. Estas mismas instrucciones las puedes encontrar en este [link](https://support.rstudio.com/hc/en-us/articles/200551916-Spelling-Dictionaries).  
+
+Para conocer como insertar bibliografía les recomiendo visitar los siguientes links:
+
+- [Writing your thesis with R Markdown: Text, citations and equations](https://rosannavanhespen.nl/rmarkdown/writing-your-thesis-with-r-markdown-2-text-citations-and-equations/)  
+- [Bibliographies and Citations](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)  
+
+[Aquí](https://vimeo.com/110804387) está el video donde el autor de `knitr` muestra como crear una plantilla de Word para las salidas que se produzcan desde R Markdown. Lamentablemente el video es de hace 6 años (utiliza Office 2013 y Windows 7). En este [link](https://bookdown.org/yihui/rmarkdown-cookbook/word-template.html) también encontrarán más información para generar plantillas de Word.
