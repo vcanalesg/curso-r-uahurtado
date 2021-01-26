@@ -126,3 +126,8 @@ Para conocer como insertar bibliografía les recomiendo visitar los siguientes l
 - [Bibliographies and Citations](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)  
 
 [Aquí](https://vimeo.com/110804387) está el video donde el autor de `knitr` muestra como crear una plantilla de Word para las salidas que se produzcan desde R Markdown. Lamentablemente el video es de hace 6 años (utiliza Office 2013 y Windows 7). En este [link](https://bookdown.org/yihui/rmarkdown-cookbook/word-template.html) también encontrarán más información para generar plantillas de Word.
+
+**Sesión 7: Estimaciones a partir de encuestas con muestreo complejo [1] (26 de enero)**
+
+- [Código clases](https://www.dropbox.com/s/mrh9h5xmflj2tpy/codigo_en_vivo7.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1E4lYjH7EeTgdtrS5Rd11oUPoy5YP_nE9VLMPlm_zW94/edit?usp=sharing)
