@@ -131,3 +131,10 @@ Para conocer como insertar bibliografía les recomiendo visitar los siguientes l
 
 - [Código clases](https://www.dropbox.com/s/mrh9h5xmflj2tpy/codigo_en_vivo7.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1E4lYjH7EeTgdtrS5Rd11oUPoy5YP_nE9VLMPlm_zW94/edit?usp=sharing)
+
+**Sesión 8: Estimaciones a partir de encuestas con muestreo complejo [2] (28 de enero)**
+
+- [Código clases](https://www.dropbox.com/s/9ud7u381cmtvhbq/codigo_en_vivo8.R?dl=0)
+- [Presentación](https://docs.google.com/presentation/d/1rInJR4fiEVNTzDq1_IfhDKzSz_8p6kYms5TQlRKIdiA/edit?usp=sharing)
+
+
